@@ -1,0 +1,32 @@
+package assignments;
+
+public class datatypes {
+
+	public  static void datatypes1() {
+		// TODO Auto-generated constructor stub
+		int a =12;
+		System.out.println("hi" +a);
+	}
+
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int a=10;
+		String b ="kusu";
+		float f =12.0f;
+		double d = 111.1111;        // Default size is 8 byte
+	    char c = 'C';             // Default size is 2 byte
+	    boolean e = false;  
+		System.out.println("hi" +a);
+		System.out.println("him" +b);
+		System.out.println("hik" +f);
+		System.out.println("hikii" +c);
+		System.out.println("hikiomn" +d);
+		System.out.println("hikokiko" +e);
+		          // Default size is 
+		datatypes v = new datatypes();
+		v.datatypes1();
+
+	}
+
+}
