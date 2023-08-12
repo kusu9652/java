@@ -1,0 +1,28 @@
+package assignments;
+
+public class largestamong3 {
+
+	public static void largestamong5() {
+		// TODO Auto-generated constructor stub
+		int a =23;
+		int b =45;
+		int c =78;
+		if((a>b)&&(a>c)){
+			System.out.println("hi" +a);
+		}
+        else if ((b>a) && (b>c)){
+			System.out.println("hi" +b);
+		}
+		else{
+			System.out.println("hi" +c);
+		}
+		
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		largestamong5();
+
+	}
+
+}
