@@ -1,0 +1,23 @@
+package assignments;
+
+public class equalnotequal {
+
+	public static void equalnotequal() {
+		// TODO Auto-generated constructor stub
+		 int d =8;
+		 int k=9;
+		 if (d==k){
+			 System.out.println("yes");
+		 }
+		 else {
+			System.out.println("not yes"); 
+			 }
+			 
+		 }
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		equalnotequal();
+	}
+
+}
