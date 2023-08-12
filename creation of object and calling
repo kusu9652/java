@@ -1,0 +1,21 @@
+package assignments;
+
+public class see {
+	
+
+
+	public static void  see2() {
+		// TODO Auto-generated constructor stub
+		 String b = "hi";
+		 System.out.println(b);
+	
+		
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		see  obj  = new see();
+		 obj.see2();
+	}
+
+}
