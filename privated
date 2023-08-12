@@ -1,0 +1,24 @@
+package assignments;
+
+class privated {
+	static int x= 12;
+
+class hi{
+	static int x= 22;
+
+}
+	public  static void privated() {
+			// TODO Auto-generated constructor stub
+			System.out.println(x);
+		}
+	public  static void privated2() {
+	System.out.println(x);
+}
+public static void main(String[] args) {
+		// TODO Auto-generated method stub
+  privated();
+  privated2();
+	}
+}
+
+
