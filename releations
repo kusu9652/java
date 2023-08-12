@@ -1,0 +1,26 @@
+package assignments;
+
+public class logical1 {
+
+	public static void logical1() {
+		// TODO Auto-generated constructor stub
+		int a =12;
+		int b =23;
+		int c=89;
+		
+		System.out.println( a<b && a<c);
+		System.out.println( a>b && a>c);
+		System.out.println( a<=b && a<=c);
+		System.out.println( a>=b || a>=c);
+		System.out.println( a<=b || a<=c);
+		System.out.println(!(a<b));
+	
+		
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		logical1();
+	}
+
+}
