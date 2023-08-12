@@ -1,0 +1,20 @@
+package assignments;
+
+public class tentohundred {
+
+	public static void tentohundred2() {
+		// TODO Auto-generated constructor stub
+		 int i = 10;
+	        //loop executes from 10 to 100
+	        while (i <= 100) {
+	            System.out.println(i);
+	            i += 2;
+	        }
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		tentohundred2();
+	}
+
+}
