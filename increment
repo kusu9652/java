@@ -1,0 +1,23 @@
+package assignments;
+
+public class increment {
+
+	public  static void  increment2() {
+		// TODO Auto-generated constructor stub
+		int c= 12;
+		c++;
+		System.out.println("yes"+c);
+		c--;
+		System.out.println("yes"+c);
+		++c;
+		System.out.println("yes"+c);
+		--c;
+		System.out.println("yes"+c);
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		increment2();
+	}
+
+}
