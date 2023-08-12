@@ -1,0 +1,28 @@
+package assignments;
+ public class  public2 {
+		static int x= 12;
+	}
+
+class hi2{
+	static int x= 22;
+public static void public1() {
+				// TODO Auto-generated constructor stub
+				System.out.println(x);
+			}
+		public  static void public5() {
+		System.out.println(x);
+	}
+public class public2 {
+
+	public public2() {
+		// TODO Auto-generated constructor stub
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		public1();
+		}
+}
+}
+
+
