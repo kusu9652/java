@@ -1,0 +1,19 @@
+package assignments;
+
+public class localvariables {
+    int v =56;
+	public static void localvariables2() {
+		// TODO Auto-generated constructor stub
+		int v  =90;
+		System.out.println("hi" +v);
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+	
+		localvariables h = new localvariables();
+		h.localvariables2();
+		
+	}
+
+}
