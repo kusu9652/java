@@ -1,0 +1,23 @@
+package assignments;
+
+public class logical {
+
+	public static void logical2() {
+		// TODO Auto-generated constructor stub
+		int d =8;
+		int k=9;
+		if (d>k) {
+			System.out.println("yes greater");
+			}
+		else {
+			System.out.println("yes not greater");
+		
+		}
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		logical2();
+	}
+
+}
