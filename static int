@@ -1,0 +1,25 @@
+package assignments;
+
+public class ji {
+	static int v=23;
+	static int g=57;
+	int v3=8;
+	int y=7;
+	
+	public  static void ji1() {
+		// TODO Auto-generated constructor stub
+	
+		System.out.println( v+ " "+g + " " );
+		}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		ji1();
+		
+		
+	}
+}
+
+
+
