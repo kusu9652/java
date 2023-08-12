@@ -1,0 +1,16 @@
+package assignments;
+
+public class str {
+
+	public static void str1() {
+		// TODO Auto-generated constructor stub
+		String d ="hello";
+		System.out.println(d);
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		str1();
+	}
+
+}
