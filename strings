@@ -1,0 +1,43 @@
+package assignments;
+
+public class stringconcatenate {
+	public static void main() {
+		
+	
+
+	String s="hi welcome ";
+	String s1="mam";
+	String s3= s+s1;
+	if(s==s1) {
+		System.out.println("yes");
+	}
+	else {
+		System.out.println("no");
+			
+		}
+	
+
+	System.out.println(s3);
+	System.out.println(s.length());
+	System.out.println(s.substring(0,4));
+	System.out.println(s.trim());
+	System.out.println(s.toUpperCase());
+	System.out.println(s.toLowerCase());
+	System.out.println(s.indexOf(5));
+	System.out.println(s.startsWith("hi"));
+	System.out.println(s.endsWith("ome"));
+	System.out.println(s.replace("hi","hm"));
+	System.out.println(s.valueOf("hi"));
+	System.out.println(s.split("hi"));
+	
+	}
+
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		 main();
+		
+
+	}
+
+}
